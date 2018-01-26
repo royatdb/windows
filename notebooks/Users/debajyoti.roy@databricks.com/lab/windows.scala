@@ -44,6 +44,8 @@ events
 
 // MAGIC %md
 // MAGIC # Windows in `Scala`
+// MAGIC 
+// MAGIC $$ Z_i = \frac{|x_i-\mu|}{\sigma} $$
 
 // COMMAND ----------
 
